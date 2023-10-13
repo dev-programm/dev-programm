@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dev Programm</h1>
 <h3 align="center">👨‍💻 As a multi-faceted developer and expert, I wear many hats in the tech world. 🌐 I specialize in front-end web development, 📜 patent web development, 🛠️ database engineering, and 📊 data science. 🚀 With a strong foundation in programming and a passion for innovation, I bring a wealth of expertise to any project. My proficiency in a diverse range of technologies and my deep understanding of data science make me a go-to expert in both development and data analysis. 🌟 With a commitment to excellence, I continually seek new challenges to apply my knowledge and skills to deliver outstanding results. 🚀💻🔬</h3>
 <img align = "right"alt = "coding" width = "400" src = "https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-programm" alt="dev-programm" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [dev-programm.github.io/devprogramm.com](dev-programm.github.io/devprogramm.com)
 
