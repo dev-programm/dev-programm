@@ -95,7 +95,7 @@
 <h3 align="left" style="text-align:center; font-family: 'Montserrat', sans-serif; font-weight:700;">Software Skill</h3>
 <p align="left">
     <div class="con" style="display: flex;justify-content: space-evenly;">
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="70" height="70"/> </a> 
+    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png?20200616073617" alt="photoshop" width="70" height="70"/> </a> 
     <a href="https://adobe.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/512px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="" width="70" height="70"></a>
     <a href="https://adobe.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/512px-Adobe_Illustrator_CC_icon.svg.png" alt="" width="70" height="70"></a>
 </div>
