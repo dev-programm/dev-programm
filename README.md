@@ -81,7 +81,6 @@
 <p align="left">
     <div class="con" style="display: flex;justify-content: space-evenly;">
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="70" height="70"/> </a>
-        <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5f188KeCzvZ84wScJx_4Z378nbSK2sMveFOj1qfQ6Uw&s)" alt="linux" width="70" height="70"/> </a> 
     <a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/245f4571-14d4-4069-90a7-259b2971229f/del3rk1-177dea3e-01d6-4c32-bcfd-8927b7bc8364.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI0NWY0NTcxLTE0ZDQtNDA2OS05MGE3LTI1OWIyOTcxMjI5ZlwvZGVsM3JrMS0xNzdkZWEzZS0wMWQ2LTRjMzItYmNmZC04OTI3YjdiYzgzNjQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.RDHFl6JxHrJPAZGg1gIyuGEOJCn9WMTLlNYVlu8Ql5E" alt="apple" width="70" height="70"></a>
     <a href="https://microsoft.com" target="_blank" rel="noreferrer"><img src="https://logowik.com/content/uploads/images/windows-116906.jpg" alt="windows" width="70" height="70"></a>
 </div>
