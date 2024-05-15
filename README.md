@@ -1,4 +1,4 @@
-![logo](https://github.com/dev-programm/dev-programm/blob/main/cover.png)
+![logo](https://github.com/dev-programm/dev-programm/blob/main/1686575019blobid0.jpg)
 <h1 align="center">Hi 👋, I'm Dev Programm</h1>
 <h3 align="center">👨‍💻 As a versatile cybersecurity maestro, I wear many hats in the tech world. 🌐 I specialize in ethical hacking, web penetration testing, cyber security analysis, and red teaming. 🚀 With a solid foundation in programming and an insatiable passion for security, I bring a powerhouse of expertise to every project. My mastery across a spectrum of technologies and deep dive into cybersecurity make me the go-to guru for both defensive and offensive strategies. 🌟 Committed to excellence, I'm always on the lookout for new challenges to push the envelope and deliver top-tier results. 🚀💻🔒</h3>
 <img align = "right"alt = "coding" width = "400" src = "https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
